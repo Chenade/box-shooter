@@ -2308,7 +2308,7 @@ MonoBehaviour:
   playAgainButtons: {fileID: 1367938100}
   playAgainLevelToLoad: Level1
   nextLevelButtons: {fileID: 759549382}
-  nextLevelToLoad: Level12
+  nextLevelToLoad: Level2
 --- !u!4 &1009275290
 Transform:
   m_ObjectHideFlags: 0
